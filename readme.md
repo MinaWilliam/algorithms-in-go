@@ -6,3 +6,4 @@
 ## Sort
 ##### Functions:
 1. [`SelectionSort`](./sort/selection.go#L3): O(n^2)
+2. [`QuickSort`](./sort/quick.go#L3): O(n log n)
